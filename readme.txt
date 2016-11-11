@@ -1,2 +1,3 @@
-i am humen
+i am human
 you too
+yes
